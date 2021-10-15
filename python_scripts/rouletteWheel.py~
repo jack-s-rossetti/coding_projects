@@ -1,0 +1,13 @@
+#------------------------------------------------------------#
+#                                                            #
+#                    rouletteWheel.py                        #
+#                                                            #
+# rouletteWheel.py simulates a casino roulette wheel using   #
+# python's internal random number generator.                 #
+#                                                            #
+# Input(s):                                                  #
+#                                                            #
+# Output(s):                                                 #
+#                   Number the wheel lands on                #
+#                                                            #
+#------------------------------------------------------------#

@@ -6,3 +6,6 @@ I'll be attempting to replicate most codes in different lang-
 -uages to help improve my abilities as a programmer and soft-
 ware developer. The aim is to produce readable codes that can 
 act as tutorials/helpful references for others.
+
+My interests are optimization, data science, machine learn-
+-ing, and other applied mathematics/computer science areas.

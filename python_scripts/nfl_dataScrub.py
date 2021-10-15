@@ -1,3 +1,10 @@
+################################################################
+#                                                              #
+# nfl_dataScrub.py is a python web-scraping code from adapted  #
+# from a code developed by user venkatesannaveen.              # 
+#                                                              #
+################################################################
+
 # Import scraping modules
 from urllib.request import urlopen
 from bs4 import BeautifulSoup

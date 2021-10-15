@@ -1,9 +1,6 @@
-#--------------------------------------------------------------#
-#                                                              #
-# coding_projects                                              #
-#                                                              #
-#--------------------------------------------------------------#
-
+#
+# coding_projects                                              
+#
 Miscellaneous coding projects for various tasks/interests. 
 I'll be attempting to replicate most codes in different lang-
 -uages to help improve my abilities as a programmer and soft-
